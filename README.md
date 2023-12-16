@@ -10,10 +10,12 @@ This Python script is designed to automate the login process and retrieve assign
 - YAML library for Python
 
 ## Usage
+1. Download repo to your device
 1. Ensure all necessary dependencies are installed.
 2. Update the `loginDetails.yml` file with valid Canvas login credentials.
 3. Update the URL with your Schools/County's Canvas URL
-4. Run the script.
+4. Run the script in any IDE of your choice.
+5. Results will print on the terminal
 
 ## File Structure
 - `canvas_auto.py`: Main Python script.
